@@ -1,0 +1,13 @@
+.status-btns button {
+    border: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #e6e6e6;
+    font-size: 0.9rem;
+}
+
+.status-btns .active {
+    background-color: #d4edda;
+    color: #155724;
+}
